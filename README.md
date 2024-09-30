@@ -23,6 +23,7 @@ A <ins><b>.zip</b></ins> archive containing the following:
 - Coverage of various HTML structures and different sizes.
 - The code <b>MUST NOT</b> crash.
 - Code cleanliness and formatting.
+- Using a DOM parser is not allowed.
 - How effectively you handled unexpected scenarios, such as situations where your code received valid HTML but still crashed or produced incorrect results. We will evaluate your ability to anticipate edge cases and ensure robustness in your solution.
 
 ## Deadlines
